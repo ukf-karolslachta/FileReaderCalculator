@@ -1,0 +1,8 @@
+substract 7
+multiply 9
+
+add 6
+
+divide 3
+
+apply 5

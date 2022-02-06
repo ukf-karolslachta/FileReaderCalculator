@@ -1,0 +1,6 @@
+add 550
+divide 10
+add 600
+substract 120.5
+square 3
+apply 125
